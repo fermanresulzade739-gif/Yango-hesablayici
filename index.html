@@ -1,1 +1,0 @@
-# Yango-hesablayici
